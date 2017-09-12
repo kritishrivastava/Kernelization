@@ -1,0 +1,2 @@
+# Kernelization
+KERNELIZATION, KERNEL TRICKS
